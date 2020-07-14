@@ -1,0 +1,181 @@
+# Day 9: The Des Moines Lobe II
+
+Wed 6/5/19
+
+##UMN Southwest Research & Outreach Center
+
+Guest speakers:  Molly Werner & Andry Ranaivoson
+
+* Molly is co-director of the ROC  
+* SWROC primarily does corn and soy research.  It was established in 1957 and features 650 acres total 
+* 500 acres are in corn and soy production.  These crops fund the center 
+* Researchers from UMN can pay $275/acre to use research plot land here 
+* This ROC serves the 14 county area and has 3 tenure track faculty: 
+    + Jeff Strock 
+    + Paolo Pagliari
+    + Axel Garcia
+* Variable input crop Management (VICM) areas - native grasses established here in 1991
+* Elwell Agroecology Farm - gifted to the U, majority of organic research acres are here. 
+
+##SWROC Tour with Andy 
+
+* Andry will walk around with us and talk about the research at SWROC. Overview of topics he will cover: 
+    + 6 paired wetlands 
+    + Paired ditches 
+    + Bioreactor site 
+    + Cropping systems - camelina 
+
+**SWROC Wetlands** 
+
+* These systems are in radio communication -- maintenance is key! 
+* They have a surface flow wetland, vertical flow wetland, and horizontal flow wetland 
+* The vertical flow wetland has tile drainage underneath, water percolates down through the profile and collects in the tile 
+* The horizontal flow wetland has a layer of rocks underneath the wetland - bacteria grow on these rocks 
+* With these wetlands, the main goal is to treat nitrate and P.  When you retain water, you can get some reductions. However, retained water quickly becomes a reduced system...
+* P is tied up with Fe3+.  However, in a reduced system Fe3+ -> Fe2+, and P is released!  So although you are reducing nitrate through denitrification in a reduced system, your P levels might be going up.  This is a challenge! 
+* MN State Nutrient Reduction Strategy outlines reductions in N and P going forward into the future using 1980-1996 avg values as the baseline.  
+* There have been some maintenance issues with the wetland systems in previous years; fixing for future so they can continue the comparison study.
+* Think about MN’s natural landscape before agriculture and development - on the Des Moines Lobe landscape, we have lost more than 90% of the wetlands that were originally here!  Jay Bell has done research on this issue. 
+* What are the water quality solutions that are available for this part of the state (with lots of tile drainage)?  Buffer strips probably not the best option
+* Here we want to think about edge-of-field technology
+
+**SWROC Bioreactor**
+
+* The first generation of the bioreactor project involved digging a trench and filling it with wood chips or other substrates.  Tile drainage is directed to these ditches and water is analyzed after it moves through the ditches to test N levels. 
+* The nice thing about this system is that no maintenance is needed after installation; only problem is that not every field has space 
+* Ditches are not currently listed as a BMP in the MN Nutrient Reduction Strategy 
+* The second generation bioreactors are more like cubes filled with layers of different substrates (wood chips or corn stalks) to create a more vertical system. 
+* The system we are looking at has corn cobs on top, then wood chips, and finally red rock (where bacteria can grow). 
+* The 1st and 2nd gen systems have different hydraulic residence times.  Researchers are trying to figure out how long the water needs to spend on the bed for the N removal to be effective.  
+* The 2nd gen system achieves the same amount of N reduction in eighth the time time (cut down from 24 hours to 3 hours).  
+* To address P, SWROC looking at whether steel slag, crushed concrete, or limestone could adsorb P.  * They have experimented with different combinations of systems to remove P and N over the last several years 
+* Because you are relying on bacteria to do this work, temperature of water makes a big difference!  In June when the water temp increases, the bacteria can reduce more and faster.  However, the biggest flux of nutrients actually happens earlier - when the snow is melting.  They have tried adding heating tapes to the systems to help the microbes during April & May
+* These systems can reduce nitrate 30%+, and with heat can reduce N load 42%.  
+* In the first year these systems reduced P 52%, seemed very promising.  However cold temperatures in the next year resulted in a P increase (P released) 
+* Andry says the future is microbiology.  The key is to select strains of bacteria that can perform under real conditions.  This is where the research need is right now.  Satoshi Ishii (SWAC) and Emily Anderson (Masters student) worked on some of the microbiology in these systems 
+* Question - is it possible to recover some of the P from the system? Andry says this is a good idea, they have imagined spreading wood chips across a field after they had been used in the bioreactor
+* How many days is the drain tile flowing around here?  In wet years it’s from April to August, and can start flowing again later in the fall.  
+
+**SWROC Camelina Fields**  
+
+* Camelina is a cold-hardy oil seed crop with 38-42% oil 
+* SWROC has split plot fields, 3 with camelina and 3 without
+* Researchers hope that camelina will scavenge extra nitrate in the fall and spring before a typical crop will grow. 
+* At one point the US Navy was considering camelina for biofuel 
+
+* Costs per lb of N removed with different methods (see 2013 publication online referenced by Andry for full report - can also email him for this) 
+    + Cover crops - $25
+    + Controlled drainage - $0.91
+    + Bioreactors - $0.95
+    + Constructed wetlands $1.32
+    + Saturated buffers - $1.22 
+
+###Catena @ SWROC 
+
+Summit - textures are loam over silt loam over loamy sands.  This is Des Moines Lobe Till. Carbonates at 110cm.  Typic Hapludoll  
+
+Ap  
+A  
+BA  
+Bw  
+Bk  
+C  
+
+Lower Backslope - Carbonates at 80cm, Aquic Hapludoll  
+
+Ap  
+A  
+Bw  
+Bgk    
+Cgk  
+
+
+Footslope - Gypsum present here! Typic Calciaquoll.  Suffix for gypsum is “y”.  Gypsic horizon must have >5% gypsum by weight.  Carbonates here at 40cm  
+
+Ap  
+A  
+Ak  
+Bgy  
+
+Toeslope - Formed in local colluvium over till.  No carbonates at 160+cm.  Cumulic endoaquoll  
+
+Ap  
+A  
+Cg  
+
+
+* To get gypsum, need overall dry climate or semi-arid.  Here in (wet) MN, need exactly the right landform and geology to get gypsum.  Hydrology shifts salts like we have seen, even subtle topography/landforms can have a big impact on hydrology
+* Class goes to nearby kame/esker and takes a core - sandy loams over medium sands
+* This is a big sand pile!  It’s a kame, similar to the landform that Borlaug Hall sits on. 
+* A kame is an area on an ice sheet where the was a crevasse or waterfall.  Ice melts and water carries away silts and clays, leaves sand. 
+* Ice walled lakes result in a pile of finer lacustrine clay 
+
+##Highwater Ethanol Plant 
+
+**Introduction to Highwater Ethanol**
+
+* Highwater has been in operation for 10 years now.  It is a 60 million gallon facility 
+* They get runoff water from a quarry, it is piped in from 20 miles away.  Use 125 million gallons of water a year They have 2 production wells, but they only pump approx every 4 years 
+* Byproducts of ethanol production include dried distiller’s grain (can be used for cattle feed) and corn oil (can be used for biodiesel)
+* They use 21 million bushel of ground corn each year
+* Redwood County produces 50 million bushels of corn each year - this county is the second largest corn producer in the state of MN 
+* Their ethanol is shipped to the east coast or down to Atlanta GA
+* Why is ethanol important?  Traces the history of smog in the 1970s -1980s, with adoption of 10% ethanol in 1980s-1990s, air problems decreased 
+* Ethanol works as a fuel because you get more energy produced from 1 gallon than it takes to make 1 gallon.  
+* Get 2.97 gallons ethanol out of 1 bushel of corn - efficiency is increasing!  10 years ago they got 2.85 gal / bu corn, and 20 years ago it was 2.7 gal / bu corn.  
+* They achieve this efficiency through better yeast and enzymes
+* Revenues $90-150 million, sell the product at $1.15-$1.50 /gal. They have been profitable 7 out of the last 10 years
+* Costs:  $350,000-$500,000 on natural gas, $250,000-$300,000 on electricity 
+* They get their corn from within a 30 mile radius and ship the byproduct ground corn within a 100 mile radius for livestock feed 
+* The EPA approved E15 fuel for year-round use on June 1 this year 
+* The oil industry can actually increase their margin by blending in ethanol because the ethanol price per gallon is lower than the price of gasoline.  
+* Currently there is a conversation about doing a more detailed life cycle analysis of ethanol for a “low carbon fuel standard” that would evaluate the energy inputs  of fertilizer, tractor fuel, etc that goes into producing corn and ethanol.  
+* In Brazil, they use 100% ethanol in transportation fuels 
+* 141 billion gallons of fuel are used per year - 15 billion gallons of ethanol are produced each year 
+
+**Tour in Ethanol Plant**
+
+* Class walks through ethanol plant to observe the process 
+* Trucks weigh in and out with their load - 1000 bu of corn per truck, 60-120 trucks received per day. 
+* HE buys corn from farmers directly and from local co-ops.  They have 1.8 million bushels of storage capacity for corn on site. 
+* They are producing ethanol in the winter too - water usage goes down during this time because it’s easier to cool the product in the middle of the process
+* Ethanol is shipped on train cars - 28,800 gallons per train car, and 8-12 train cars loaded per day
+* HE employs 43 full time employees 
+* Water is treated by reverse osmosis
+* Federal regulations require the denaturing of ethanol before shipping (so no one can drink it) 
+* HE runs 24 hours a day, 360 days a year.  They shut down the other 5 days of the year for maintenance.  
+* Process for making ethanol 
+    + Grind corn
+    + Separate out water and oil 
+    + Once oil gone, corn mash and water are mixed 
+    + Enzymes and yeasts are mixed in 
+    
+* Class visits the lab where they do analysis of the corn and products from different stages in the process - every step along the way 
+* One quality parameter is that ethanol can’t be sold with >1.26% water 
+* Biggest technical challenge for HE is making sure the ingredients are always ready and right.  * * * Everyone needs to work and run the plant in an identical way so the process is consistent. 
+* The biggest challenge for the industry is low ethanol prices right now. 
+* Many states in the US don’t have infrastructure (stations) to have E15 fuel
+* China’s ethanol tariffs were 20% 1.5 years ago, but risen to 65-70% recently 
+
+## Sakatah Lake State Park  
+
+(MHS 49) 
+
+* We are transitioning back from prairie to forest - this is the tension zone 
+* Central Des Moines Lobe has a slow rolling ground moraine
+* Here we are seeing a stagnation moraine.  Hummocky terrain formed by glacier advance and retreat.  Well-defined hills and depressions 
+* Owatonna is on a lateral moraine of the Des Moines Lobe (where ice ended ) 
+* 300,000-500,000 years ago, till from pre-Wisconsin glaciation is deposited.  This is a different age than everything we have seen so far
+* Comparison between Des Moines Lobe landscape (internally drained) and Driftless/unglaciated (externally drained) 
+    + In DLT landscape, not many surface water bodies (like rivers and streams) 
+    + In Driftless, wetlands are only in floodplains and river valleys 
+* This older glaciated landscape is called the “Iowan Erosion Surface”
+* Loess is found in places where there was no ice cover during the last glaciation
+* Topography here in Driftless is controlled by the BEDROCK. Compare this with the majority of the state where topography is controlled by glacial sediment 
+* What are parent materials like in an unglaciated landscape? 
+    + Uplands: residuum 
+    + Footslopes: colluvium
+    + River valleys: Alluvium 
+    + Bedrock:  Sandstone, limestone, sedimentary 
+
+

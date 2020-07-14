@@ -1,0 +1,14 @@
+---
+title: "Notes for Minnesota Soils and Land Use (SOIL 4511)"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+---
+
+# Introduction
+
+These notes were collected during the field section of SOIL 4511 from May 28, 2019 - June 7, 2019.   SOIL 4511 is a University of Minnesota course developed and taught by Dr. Nicolas Jelinski.  
+
+These notes are in the process of refinement with formatting using R Markdown and ability to compile into one document (HTML, PDF, or EPUB) using the *bookdown* package.  Reader beware: the document is filled with spelling errors,  factual errors, and inconsistencies in formatting. You have been warned! 
+

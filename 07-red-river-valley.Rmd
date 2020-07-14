@@ -1,0 +1,172 @@
+# The Red River Valley
+
+6/2/2019 
+
+##Crookston: Redi Site (Crystal Sugar)
+
+Guests:  Tyler, Joe, Travis, Brock 
+
+Brock: Agriculturalist at UMC  
+
+Travis: Agriculturalist, first contact for farmers from Crystal Sugar.  Works with 25-35 farms throughout the year.  Checks fields, scouts, helps coordinate harvest  
+
+Joe: Agronomy manager. Comments that soil and climate are great in RR Valley for sugar beets.  Can store beets 8.5 months out of the year here!  
+
+Tyler: General agronomist. Works with growers, government, allied companies (pesticide, fertilizer, etc.) Notes the Ag Intern program, opportunities posted in midwinter on the Crystal Sugar website if students are interested   
+
+Ryan - intern  
+
+John - agronomist  
+
+Crystal Sugar is a cooperative - owned by growers.   
+
+**About sugar beets** 
+
+* Beets are in the ground 4.5 months, stored for 7.5-8 months out of the year 
+* Sugar beets are 75% water - making sugar is about getting rid of this water! 
+* Largest harvest Crystal Sugar has had is 12 million tons, harvested from 400,000 acres 
+* Sugar content is ~18% in beets 
+* Rotation is 2-3 years between beet crops.  Typically would have  soybeans - corn - barley - wheat.  Occasionally sunflowers or potatoes thrown in the mix 
+* N drives yield and quality.  Too much N means high yield but low sugar. Need the right balance.  Goal is 130 lbs available N per acre 
+* Beets planted in 22 inch rows, 4.75 inch spacing.  60,000 beets per acre
+* Beet tap roots go down 6 feet, lateral roots go down to 10 feet.  Beets drill deep for nutrients and water 
+* Seeds grown in the Willamette Valley (hybridized seed).  Aren’t many producers of hybrid sugar beet seed
+* Beets are an indeterminate crop - they grow until harvest 
+* Nice stable price for sugar - to make more money, they need to increase production and become more efficient 
+* In the last 20 years, they have decreased average land planted while maintaining total tons harvested without increasing input costs -- discussion about this being a form of sustainability 
+* Between 2003 and today, harvests have increased from 6,000 lb beets per acre to 10,000 lb beets per acre [fact check this with one of the Crystal Sugar folks]
+* NDSU and UMN are known for sugar beet research 
+* Polk County MN produces the most beets in the US!
+* Beets are a $1.1 million / acre commodity 
+* Question about staggered planting - does Crystal Sugar aim for that? 
+    + Not really - want beets to be in the ground as many days as possible.  They can germinate at 38F.  As soon as soil can carry tractors they want farmers out prepping seedbeds and planting 
+* The reason pre-harvest starts in July is because they have to move a certain amount of beets through processing quickly because they can’t be stored in the hot weather. 
+* By October 1, crew of 13,000 people running around the region harvesting and storing beets before ground freezes.  Their goal is to do a mass harvest all within 10 days. 
+* Comment from one of the CS folks “Soils are the biggest black box in agronomy” 
+
+**Challenges**
+
+* During winter - shelter belts and tree rows collect lots of snow out here.  This can have a major economic impact on farmers who want to get in their fields.  
+* Trend they are seeing is people actually removing shelter belts.  One of the CS agronomists claims that shelter belts are also competing with beets for resources?  
+* Shift to growing cover crops with beets instead of using shelter belts 40% of growers are using some kind of cover crop during the season 
+* Crystal Sugar has 100% Roundup Ready sugar beet production - cover crops terminated chemically.  
+* One risk with cover crops - after they are terminated, residue can increase the albedo on the field, drop soil temp and slow down the beets 
+* Another issue is resistant weeds - water hemp, common ragweed, kosha (?)
+* Diseases that affect beets: Rhizoctonia, Circomspra ??
+* Insect pests: cutworms, wireworm springtails, sugar beet root maggot 
+* Pesticide toolbox for beets is very small.  Also, sugarbeets are a relatively small commodity, so pesticide producers are not incentivized to produce additional formulations 
+* Very proactive and targeted with pesticide applications.  Pick right time and place to address specific issues if needed. 
+* Issues of pesticide drift - Crystal Sugar’s contracts allow staff to walk onto any field in the company to monitor for drift.  If it is found, they quarantine the area. Bring in a third party to check for off-label pesticides.  If the area is contaminated, the crop must be destroyed.  Can’t risk taking those beets to processing.  Careful conflict management required in these situations! 
+* 75% of beets are planted on previous wheat ground.  Easier to till broadleaf weeds out of a small grain. Being able to grow wheat in the rotation is important.
+* Staff members sometimes have to make hard decisions when working with farmers - rejecting a load of beets if quality is poor
+
+**Sugar market & products** 
+
+* United Sugars actually sells the sugar for Crystal.  Crystal has 30-40% of the beet sugar market.  
+* Lots of their product is sold bulk to companies like General Mills, Pepsi, Hershey, Lifesaver, Jello.  General Mills is the largest purchaser of sugar in the US.
+* They package 45 other labels (in addition to Crystal Sugar). Other companies ship labels up here so their sugar can be branded.  
+* Produce powdered, granulated, and liquid sugar 
+* Beet pulp and molasses are sold to Midwest Agrci-commodities.  Used for cattle feed and dog feed and “Betain” for poultry. 
+* The Triple Crown (horse?) winner last year was fed on beet pulp and tailings 
+* About filtering and cleaning sugar - when the product is finished, they have 99.998% pure sucrose.  They refine a very clear product 
+* Sugar consumption has levelled off, even increased 
+* Brazil is driving GMO sugar cane production.  Previously it was GMO beet production competing with conventional (non-GMO) sugar cane
+* Max acreage CS has grown :  512,000 at peak producing 10 million tons 
+* Now they are at less than 400,000 acres, but producing 12 million tons
+* Corn syrup hasn’t been as much competition recently - consumer perception of corn syrup is falling.  
+
+**About soils in this field (Redi Site)** 
+
+~4% organic matter  
+pH 7.9-8.4  
+Montmorillonite clay   
+less than 0.5% sugarbeets mechanically irrigated here - “100% irrigated from the ground up”  
+Fields have been graded to drain into ditches.  This topography we see is not natural. The natural topography you see here is drop of ~1ft PER MILE!  
+* We see a barley cover crop on this (Redi Site) field.  Some farmers do rye or wheat, but 90% plant barley  
+* Get into fields - finding silty clay (~42%) over silty clay (50+%).  Calcic epiaquert.   
+* 200-250 feet of clay here. These are smectitic soils, predominant mineralogy is shrink/swell clays
+
+* This is an epiaquert or epiaquoll  
+Ap? -Silty clay, >35% clay, 10YR 5/2, cracks  
+Bg - Silty clay  50+% clay  2.5Y 4/2   
+
+Q. Less reduction than you would expect based on the fine texture here -- why?  
+
+A. Greyest part of the soil is 20-40cm, zone of most intense (epi)saturation. 
+See carbonates all the way to the surface here.  Almost all of the soils in this landscape will effervesce to the surface due to high evaporative demand and capillary rise.  Only place where you don’t have carbonates at surface is in a depression. More evaporation occurs from ag managed land compared to prairie - this draws the carbonate up over decades   
+
+* Lab data from county soil surveys shows that soil goes from 5-10% carbonates at the surface, as high as 20-30%, and then drops back to ~15%
+
+* These A horizons [in the field] are thinner than we’d expect to find in an undisturbed area due to wind erosion (technically don’t have a mollic epipedon here)
+
+**Note about soil taxonomy & carbonates:**  
+
+* If depth to carbonates is greater than or equal to 75cm, need >25cm mollic colors to make mollic 
+* If depth to carbonates is less than or equal to 75cm, sliding scale to make mollic - here we only need 18cm to make mollic 
+* Need water evaporation to get carbonate deposition. Some carbonate rich water ends up sitting in the zone of saturation.  When the drier time of year arrives, the water evaporates and deposits the carbonate.  This zone of carbonate is analogous to argillic horizons where we see a bump in clay content
+* These are some of the highest pH soils in the state! To get above 8.5 pH, need not only carbonate, but also sodium carbonate.  
+* Ca ties up P at high pHs -- P availability problem! To overcome this, Crystal Sugar puts 12 lbs P in furrow with seed when planting
+
+
+* In the 1990s saw more chisel plows in the fall.  Historically alot of moldboard plow, but now many growers are transitioning to vertical till (super coulters).  Having Round-up Ready crops allows vertical tillage to work in this management situation.  Before Round-up Ready beets were available, farmers had to come in with a cultivator to cut weeds before planting 
+
+What is the average year for growing sugar beets with Crystal Sugar? 
+
+**January**: signing contracts with growers.  Each staff member works with ~9 farms, 20,000 acres. Work to educate farmers on best practices for diseases, insects, weeds. The farms they work with are generational farms.  Crystal Sugar staff is 90% CCA certified, which means they complete ~20 hours university training per year  
+
+**May-June:** Planting, measure stands and evaluate pesticide & fertility needs.  
+
+**July-September:** In mid-August harvest starts, beets go to factory to be processed over the course of 3-4 days  
+
+**Oct 1:** first stockpile harvests.  Beets get piled up, can last 14-100 days depending on the weather.  There are 105 pilers across the valley.  12 have sheds where the beets get frozen from the ground up 
+
+Beets as biological dynamite:  with sugar content ~18%, beets that are piled up can be dangerous.  Need to be careful when they are piled in big piles.  Staff uses infrared image flights, drones to find hotspots in the beet piles. There are staff members on call 24/7 for reloading 
+
+##2nd Stop w/ Crystal Sugar
+
+Calciaquoll  
+
+A - Silty clay loam, 10YR 3/1, slight effervescence  
+Bkg1 - Silty clay, 7.5YR 5/1, strong/violent effervescence   
+Bkg2 - Silty clay loam, 2.5Y 5/2  
+Cs - 2.5Y 4/3  
+
+
+Second group takes a core from a depression: 
+
+* Thicker A horizon, more poorly drained (seeing more reduced colors) 
+* Textures are silty clay loams over silt loams 
+* Compared to our first stop (Redi site) this soil tends to blow more because of the silt. 
+* Brock says this farmer may have done a cover crop - see some residue on the surface 
+* We hit frozen soil while augering - why?  
+* Heat is transferred into the soil when particles are well-connected.  Sands have least poor space, so they transmit heat first.   More clay means more pore space, better insulated.  These soils hold frost longer compared to sandier soils
+
+##3rd Stop w/ Crystal Sugar 
+
+* Seeing very fine sandy loams at the surface (eolian sands) with silt loams and silty clay loams below
+* Talf = landform term for an area outside of a depression 
+* 2 modes of deposition:
+    + Silty clay loams at the bottom of these cores are probably lacustrine
+    + Surface sandy horizons deposited by near-shore processes or in shallow water.  
+
+* Parent material here shows transition from true lacustrine materials to near-shore.  On the other end of the spectrum, would see water-worked till
+* Management on this site - little higher tonnage (yield) from these soils compared to the 2 fields we’ve seen earlier today.  Growers on these sandy soils use a little less N because the plant roots can go deeper in this soil to find N. 
+* More erosion control practices are also needed on this soil 
+* Plant shallower because water is more likely to wick up to surface.  This ground is much more forgiving when wet compared to the higher clay soils we saw earlier today.  Can still get out and harvest if it’s a little wet.  We are just a couple miles from the sites earlier today but the farming practices are VERY different to manage this soil (Hwy 75 as a a divider for these 2 types of soils) 
+* One drawback on these soils - if get too saturated or wet, soil can lose all cohesiveness (thixotropic behavior).  Can easily lose a tractor in these situations 
+* Slickensides definition:  feature on ped exteriors in smectitic clays that swell and rub to create smooth spots.  Horizon suffix for slickensides is ss
+* Because we don’t see big surface cracks here and we have less than 35% clay in upper 18cm, these are NOT vertisols.  These are calciudolls 
+
+Depression: cumulic calciudoll  
+Talf: typic calciudoll  
+
+##4th stop w/ Crystal Sugar
+
+*This is the field where some areas the beet leaves all lie flat during parts of the summer*
+
+* Surface textures here are silty clay loams , but If we find the right spot in this field, should hit some sandier material down deeper
+* Off in the distance we see an overhead sprinkler on a different field - more evidence that something is different on this site compared to the others
+* Don’t really have a good soil series component set up for these situations
+* Aerial imagery of the beet crop during the right part of the season (driest) might be able to map these strands in the field 
+* Beets rely heavily on the stored water in the profile - fine sands reduce plant available water in rooting zone 
+

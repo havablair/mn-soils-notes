@@ -1,0 +1,187 @@
+# Day 4: The North Central Forests II
+
+Day 4: Friday, May 31 2019 
+
+##Chippewa National Forest  
+
+Introductions: 
+Anna Plum - Soil Scientist, Chippewa National Forest  
+Patty Burns - USDA NRCS, Soil Survey, County soil surveys, QC on soil data for her region
+Dave Morley - Soil Scientist/Hydrologist    
+Whole career in Chippewa - soils, forest ecology, environmental planning, hydrology 
+Keith Carns- Forester for Leech Lake Band of Ojibwe. Lots of his job is collaborative. Trie has treaty rights that need to be addressed.  Also does general forest management duties.Has been in his position for 13 years starting in June.  Grew up in MN Interns Cole & Keegan 
+
+##Site #1 in Chippewa Nat’l Forest   FDC 24 or FDN 33
+
+* Keith talks about Tribal Forest Protection Act 
+* Tribe would like to have fruiting shrubs on Leech Lake Reservation.  These can’t thrive in a monoculture of red pine 
+* Want the whole matrix of a forest, not just a monoculture - recognizing that it’s important to have one foot in reality and one foot in ideology, practice both the science and art of forest management 
+* Keith mentions that his bosses aren’t just profit motivated
+
+* Observe both sides of the road:  what do we see that is different in terms of tree species, management? 
+* One side of the road is more sparse, lots of blowdown on 1000s of acres here.  This is actually more representative of historical forest, more patchy and open.  50% lower canopy 
+* On the other side of the road, see younger trees in plantation.  Traditional forest management practiced here - easy to grow red pine.  Clear cut what was originally there, plant rows of red pine (not natural to have a monoculture like this) 
+* Getting sunlight down to the forest floor is a big goal to get more diversity - blueberries like sunlight 
+* What species should be out here?  Jack pine.  Originally fire was an important management factor for this area.  Don’t have that disturbance anymore.  
+* This site could be the following ecological classification: 
+    + FDC 24 (central rich dry pine woodland) 
+    + FDN 33 (northern dry mesic mixed woodland - little more mixed with hardwoods than FDC 24).  
+* Historically this was a fire dependent ecological community.  Fire return intervals: 
+    + Catastrophic fires - 200 years 
+    + All fires - 53 years 
+    + Fire return interval could be even shorter than 53 years with native contribution (fires used by native people to burn/manage the landscape), potentially on the decade timescale
+
+**Management recap**
+
+* One side of road: Red  pines, 30 year old plantation, some disturbance from heavy equipment (masticating mulcher) as site prep before planting, significant disturbance to soil top.  
+* Other side of road: across the road we see 80-85 year old stand of red pine (this is where there was blowdown, more open canopy).  
+
+**Landscape recap**
+
+* What is the sand particle size here?  Fine.  No coarse fragments. 
+* After glacier melted, between Cass Lake and ???? “sand flats” develop  This is blanket of finer sand on top with medium toward the bottom.  
+* See some lamellae lower in the profile here around 80-90cm.  These slow down the water somewhat even though these are sandy soils.  Just a little bit of lamellae here 
+* Zimmerman soil - lamellic udipsamment
+* Lamellae can have a significant effect on the native plant community , pushing it a little wetter compared to an area without lamellae.  
+* Evidence of the masticating mulcher here with a slightly thicker A horizon than you might otherwise see 
+* Tree competition 
+* See variability in the upper 2 cores due to human disturbance - could almost call this an Ap because of the masticating mulcher 
+
+2 upland cores (lamellic udipsamments) 
+
+A  
+E  
+E/Bt  
+
+
+
+Depression core (Sartell? Typic udipsamment, medium sands)  
+
+A  
+Bw  
+
+**TFPA Sand Plains** 
+
+* Meadows burned during spring 
+* Need to open up sites a little more before burning 
+* Most folks around here support prescribed burning - understand that it’s an important part of the ecological cycle.  
+* These densely planted trees are weak, thin bark, probably wouldn’t survive a fire. Need to think the trees and allow them to age before trying to burn 
+* Woodland is defined by 50-75% canopy; Forest is defined by 75-100% canopy closure 
+* Emerald ash borer is biggest concern here for invasives
+* Zebra mussels can impact walleye population, an important tribal fod.  
+
+##Cuba Hill Mesic Hardwoods (2nd Chippewa Stop) 
+
+* This is a very different site than the one we saw earlier - see more hardwoods, maples and aspens 
+* At some point in the past this site was clearcut - approx 60 years ago 
+* Conifers mostly absent 
+* Aspen was a component of the historical system, but it is even more dominant today after regeneration
+* First lumber barons took big pines.  Then they cut down the aspen, paper birch, red oak 
+
+Upper core (Haplic Glossudalf) : MHN 35 Mesic hardwoods 
+
+A -Highly organic, fine sandy loam, to 6cm  
+E - Sandy loam, to 30cm  
+Bt - Clay loam, to 105 cm  
+C - Loam, to 130cm, carbonates present  
+
+* Vegetation present: sugar maple, aspen, red maple, red oak, ironwood, mountain maple, birch.  
+* Understory includes bellwort, dogwood, blue bead lily, rose twisted stalk (??) , bloodroot, large yellow lady slipper 
+* Typical Warba, parent material is Des Moines Lobe till.  Top horizons here fit into the “loamy mantle” theory 
+* Thin loess got mixed in with till below it through tree throw, bioturbation
+* On the Hobbs map we are on the Guthrie Till Plain (brown islands)
+* We are in the ground moraine of the Itasca Moraine
+
+How do you distinguish between parent materials? 
+Des Moines Lobe Till:  >18% clay, shale present  
+Wadena Lobe Till:  less than 18% clay, sandy loam till, less shale, generally more coarse  
+
+Lower Core - Aquic Glossudalf - bisequel soil  
+A  
+E  
+Bw  
+EI  
+Bt/E - glossic  
+Bt  
+C  
+
+
+* Glossic is when you have an E horizon that loops down into a B (root word means tongue) 
+* White silt coating on peds - these are stripped silts. Inside of ped is clay loam 
+* Is every bisequel soil a lithologic discontinuity? See UW Madison review cited by Nic on bisequel soils 
+* Need 2 things to form a bisequel soil
+    + Lithological discontinuity
+    + Vegetative transition zone over long period of time 
+* Transition between central deciduous hardwoods and boreal coniferous forest types 
+* Redox feature appear higher up here compared to the upland core 
+* Patty says you see better glossics east of here
+
+Core from depression with standing water (epiaqualf)  
+
+O  
+A  
+Bg  
+
+* Nice shale pieces in this core
+* How do you get grey colors?  2 ways:  eluviation & reduction 
+* Colors in this core get brighter as you go down - water gets hung up on top of the argillic horizon, creating reducing conditions 
+* This is definitely a seasonal pool - common in this area 
+
+**At a vernal pond WFN 55**
+
+* Microtopography like this vernal pond is very common in glacial till & moraine landscapes.  There is enough of a confining layer to hold water
+* Defining features of a vernal pool: 
+    + Hold water for six weeks out of the year 
+    + Less than ¼ acre in size 
+    + Wet in spring, may be dry in fall 
+    + No permanent inflow/outflow: precipitation driven 
+* See marsh marigolds, rings of ash trees here, range of canopy coverage 
+* These are critical habitat for amphibian species! Salamanders and frogs, some endangered species live here 
+* With climate change, these areas are vulnerable to droughtiness, high levels of precipitation
+* Other species seen here:  black ash, basswood, red maple, yellow birch, willow, horsetail, ostrich ferns, snakeroot, sedges, swamp dewberry, sensitive fern 
+* No histic epipedon here - this fits the seasonal nature of the pool.  Can’t get much of a core here - too wet.  Enough to determine this is an endoaquoll. 
+* During dry times, can identify these vernal pools by dry, dark matted leaves present 
+* These vernal ponds are important to USFS - there are management restrictions around these seasonally wet features, requirements to have a certain amount of canopy. 
+* These areas don’t stand up well to heavy equipement 
+* Keegan and Cole (interns) will go out and identify where these seasonal ponds are - eventually make a map.  Use LIDAR data and aerial photos to identify & validate up to 85% of seasonal ponds in landscape 
+* Ash serves as an important water pump (straw) in these seasonal ponds - but what happens when Emerald Ash Borer arrives? 
+* Historically tribal members made baskets and snowshoes out of back ash 
+* Literature related to seasonal ponds in the NE ???
+* Tree contour map 
+* 1m LIDAR, smoothing hierarchical depression across landscape 
+* GColor infrared bands - aerial photos to get reflectance (wetness) 
+* 1m statewide areal photos 
+* LIDAR resolution @ 10cm vertical 
+
+##“Tweener” Site 
+
+(site recently burned in last few weeks, located in the 10 sections) 
+
+* From a management perspective, Keith explains that they have been trying to do more upland burning here, actively trying to manage and restore natural disturbance 
+* This was a patchy burn.  As the understory gets more mesic, it doesn’t carry the fire as well to create a consistent burn. However, this is a good start 
+* 10 sections is where we are - this is an important area to the Leech Lake BAnds.  USFS does not harvest in this area
+* 10 section were set aside for tribal importance - in the 2004 forest plan USFS signed with the Leech Lake Band this area was set aside as important
+* Keith advises the tribe on what to do with the big trees when they die, since this area is not being harvested 
+* Richer soil here supports bigger trees 
+* This site has been burned 2-3 times recently.  
+* We see a few Jack Pine mixed in here 
+* Fire consumed some litter - charred bowl of tree but not consumed.  Young trees are charred a litter, which is good.  This helps make them more resilient to fire. 
+* Don’t want a thick litter or duff layer in this situation - too much fuel for a potential fire. Would get too hot and kill trees
+* Think about earthworms - they reduce fuel, but also increase nutrient cycling in these systems
+* “Stand replacing fires” - with climate change, can see species 1-2 zones south moving into areas that are burned.  This is currently rare in MN, but very common out west 
+* These acidic soils are less hospitable to worms. However, as these areas get more mesic, might be friendlier to earthworms 
+* Udipsamment here
+
+**Across the road from the fire  FDN 33**
+
+* Tree species: mountain maple, red maple, sugar maple, birch, red pine, white pine 
+* Understory: beaked hazelnut, chokecherry, starflower, early meadow rue, pale bellwort 
+* Sands over loamy sands here when we take a deep >2m core
+* When we get >2m down, shifting toward till material (sandy loam) 
+* This is mapped as Zimmerman, but we are close to boundary with sand-capped till 
+* Underlying till creating a richer environment by holding water up  We have sand over till here 
+* Cutaway series = sand capped till 
+* This is an inclusion in the map unit where till is deeper 
+* Tree data: 
+    + Large white pine (16-18: diameter) - 84-85 years since last major disturbance.  
+

@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Notes from Minnesota Soils & Land Use</a></li>
+      after: |
+        <li><a href="https://github.com/havablair/mnsoils-land-use" target="blank">Published with bookdown</a></li>
+    download: ["pdf", "epub"]
